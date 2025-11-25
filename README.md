@@ -10,7 +10,6 @@ $ git clone git@git.toptal.com:Luis-Filipe/felix-enescu.git
 $ cd felix-enescu
 ```
 
-Build the application container:
 ```
 $ docker docker build -t calculator .
 ```
